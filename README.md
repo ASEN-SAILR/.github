@@ -1,2 +1,1 @@
-# Semi-Autonomous Imaging Land Rover (SAILR)
-A CU Boulder Aerospace Engineering senior projects team sponsored by NASA's Jet Propulsion Laboratory.
+This repo contains the readme that appears on our organiazations front page.
